@@ -1,0 +1,16 @@
+CREDIT CARD FRAUD DETECTION REPORT
+Used Threshold: 3.0
+
+Confusion Matrix:
+[[282792   1523]
+ [    92    400]]
+
+Metrics:
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      1.00    284315
+           1       0.21      0.81      0.33       492
+
+    accuracy                           0.99    284807
+   macro avg       0.60      0.90      0.66    284807
+weighted avg       1.00      0.99      1.00    284807
